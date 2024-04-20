@@ -1,6 +1,6 @@
 # Workshop: Exploring Flask
 
-| ![Flask Logo](https://github.com/medhedimaaroufi/Flask/blob/main/flask.png) |  |
+| ![Flask Logo](https://github.com/medhedimaaroufi/Flask/blob/main/flask.png) | ![ENSIT GEEKS CLUB Logo](https://mohetn-my.sharepoint.com/:i:/g/personal/mohamedhedi_maaroufi_ensit_u-tunis_tn/ETOC3463PelFnC-7CewtFz8BZuRcTx6b2SbXmqJcT6aF6w?e=autQyf) |
 |-----------------|-----------------|
 
 
