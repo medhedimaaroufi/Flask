@@ -1,5 +1,11 @@
 # Workshop: Exploring Flask
 
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
+| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
+
+
 ![Flask Logo](https://github.com/medhedimaaroufi/Flask/blob/main/flask.png)
 
 Welcome to our Flask workshop! In this session, we'll dive into the world of Flask, a lightweight and flexible web application framework for Python. Whether you're new to web development or looking to expand your skills, Flask offers a fantastic platform to get started.
